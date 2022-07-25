@@ -1,10 +1,3 @@
-'''
-Function Name    :  Display All Rows From Employee Table
-Function Date    :  27 June 2021
-Function Author  :  Prasad Dangare
-Input            :  ----
-Output           :  It Display All Records Of Emptab
-'''
 
 # Here I Use MySQL Workbench / MySQL 8.0 Command Line Client
 
